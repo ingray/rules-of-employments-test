@@ -49,3 +49,12 @@
 (1) GitHub에서 보기 : [취업 규칙](RULES_OF_EMPLOYMENTS.md)
 
 (2) 구글 문서로 보기 : [링크 보기](https://docs.google.com/document/d/1juOdnZ3C9Ak9eH6aFXXU-N3D1XBl4M2DHAB8V1ChaG0/edit#)
+
+## 함께보기
+* [원격 근무를 지원하는 채용 정보 모아보기]](https://www.rocketpunch.com/jobs?remote=1)
+* [사무실 없이 일 잘하는 법 – 로켓펀치의 자율 근무 문화 가이드북](https://www.notion.so/rocketpunch/56ae1abe55af46548dec2c71617b4310)
+* [로켓펀치 팀의 7가지 인사 원칙](https://blog.rocketpunch.com/2021/02/17/rocketpunchs-7-golden-principles-of-hr/)
+* [로켓펀치의 자율 근무 문화 (2017년)](https://blog.rocketpunch.com/2017/06/20/autonomy-culture-of-rocketpunch/)
+* [로켓펀치의 자율 근무 문화 (2018년) – 축구팀보다 많은 수의 사람들이 사무실 없이 일하는 방법](https://blog.rocketpunch.com/2018/12/31/autonomy-culture-of-rocketpunch-2018/)
+* [로켓펀치의 자율 근무 문화 – 2019년 : 자율 근무를 위한 가상의 사무실 만들기 (원격 근무, 재택 근무 가이드)](https://blog.rocketpunch.com/2020/01/17/autonomy-culture-of-rocketpunch-2019/)
+* [로켓펀치의 자율 근무 문화 – 2020년 : 출퇴근하며 일하던 회사가 3개월 만에 자율 근무로 전환한 ‘자율화(Auto-forming)’사례](https://blog.rocketpunch.com/2021/02/20/autonomy-culture-of-rocketpunch-2020/)
