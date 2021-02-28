@@ -106,7 +106,7 @@
 	- [제72조 - 직장 내 성희롱 발생 시 조치](#chapter14-article72)
 
 - [제15장 안전보건](#chapter15)
-	- [제73조 - 건강진단)](#chapter15-article73)
+	- [제73조 - 건강진단](#chapter15-article73)
 	- [제74조 - 산업안전보건법 준수](#chapter15-article74)
 
 - [제16장 재해보상](#chapter16)
