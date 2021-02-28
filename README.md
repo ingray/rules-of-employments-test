@@ -48,4 +48,4 @@
 
 (1) GitHub에서 보기 : [취업 규칙](RULES_OF_EMPLOYMENTS.md)
 
-(2) 구글 문서로 보기 : https://docs.google.com/document/d/1juOdnZ3C9Ak9eH6aFXXU-N3D1XBl4M2DHAB8V1ChaG0/edit#
+(2) 구글 문서로 보기 : [링크 보기](https://docs.google.com/document/d/1juOdnZ3C9Ak9eH6aFXXU-N3D1XBl4M2DHAB8V1ChaG0/edit#)
